@@ -5,6 +5,7 @@
 		<artifactId>wildfly-tests</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
+	<groupId>org.example.wildfly.ejb-proxy</groupId>
 	<artifactId>ejb-proxy</artifactId>
 	<packaging>pom</packaging>
 	<modules>
