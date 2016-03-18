@@ -9,6 +9,7 @@
 	</properties>
 	<modules>
 		<module>ejb-proxy</module>
+		<module>private-interceptor</module>
 	</modules>
 	<dependencies>
 		<dependency>
